@@ -4,7 +4,7 @@ Object.defineProperty(exports, '__esModule', {
   value: true
 })
 
-var _lodash = require('lodash.omitBy')
+var _lodash = require('lodash.omitby')
 
 var _lodash2 = _interopRequireDefault(_lodash)
 
